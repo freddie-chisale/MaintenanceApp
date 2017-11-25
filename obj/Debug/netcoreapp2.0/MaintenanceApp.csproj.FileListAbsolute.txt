@@ -1,0 +1,10 @@
+C:\Projects\MaintenanceApp\bin\Debug\netcoreapp2.0\MaintenanceApp.deps.json
+C:\Projects\MaintenanceApp\bin\Debug\netcoreapp2.0\MaintenanceApp.runtimeconfig.json
+C:\Projects\MaintenanceApp\bin\Debug\netcoreapp2.0\MaintenanceApp.runtimeconfig.dev.json
+C:\Projects\MaintenanceApp\bin\Debug\netcoreapp2.0\MaintenanceApp.dll
+C:\Projects\MaintenanceApp\bin\Debug\netcoreapp2.0\MaintenanceApp.pdb
+C:\Projects\MaintenanceApp\obj\Debug\netcoreapp2.0\MaintenanceApp.csproj.CoreCompileInputs.cache
+C:\Projects\MaintenanceApp\obj\Debug\netcoreapp2.0\MaintenanceApp.AssemblyInfoInputs.cache
+C:\Projects\MaintenanceApp\obj\Debug\netcoreapp2.0\MaintenanceApp.AssemblyInfo.cs
+C:\Projects\MaintenanceApp\obj\Debug\netcoreapp2.0\MaintenanceApp.dll
+C:\Projects\MaintenanceApp\obj\Debug\netcoreapp2.0\MaintenanceApp.pdb
